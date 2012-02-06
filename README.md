@@ -7,6 +7,7 @@ messages appear as that single user on the campfire side.
 Installation
 ------------
 Requirements:
+
  - Python (>=2.5 should work, tested with 2.6)
  - eventlet (tested with 0.9.16, others may work)
  - An IRC server configured for a services peer (tested with ngircd-15)
